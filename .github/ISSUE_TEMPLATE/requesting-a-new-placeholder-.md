@@ -1,14 +1,20 @@
 ---
 name: Requesting a new Placeholder.
 about: Use this template if you are requesting a new Placeholder!
-title: "[Placeholder Request] (Replace this text here with the placeholder)"
-labels: ''
+title: ''
+labels: Enhancement, Placeholder, Placeholder Request
 assignees: ''
 
 ---
 
-Placeholder:
-What it displays:
-Other info:
+**Placeholder** (Required)
+{example}
 
-Your Full Name:
+**What it displays** (Required)
+The amount of online players
+
+**Why you think the placeholder should be added** (Required)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet vestibulum nulla. Etiam ultrices erat ut purus sollicitudin, vitae mattis nulla feugiat.
+
+**Spigot Username** (Used for crediting) (Required)
+Tommy_Smith1
