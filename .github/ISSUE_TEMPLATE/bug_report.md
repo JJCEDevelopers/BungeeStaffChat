@@ -21,3 +21,6 @@ Please explain the bug.
 
 **Crash Log / Error Log**
 Paste it here.
+
+**Real full name** (Used for crediting) (Required)
+Tommy Smith

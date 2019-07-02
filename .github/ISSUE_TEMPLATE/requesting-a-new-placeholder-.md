@@ -16,5 +16,5 @@ The amount of online players
 **Why you think the placeholder should be added** (Required)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet vestibulum nulla. Etiam ultrices erat ut purus sollicitudin, vitae mattis nulla feugiat.
 
-**Spigot Username** (Used for crediting) (Required)
-Tommy_Smith1
+**Real full name** (Used for crediting) (Required)
+Tommy Smith
