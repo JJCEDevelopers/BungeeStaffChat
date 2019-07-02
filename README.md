@@ -1,3 +1,4 @@
 # UltraStaffChat
-A 100% Customizable Staff Chat Plugin for BungeeCord! 
-#### (This plugin is not opensource currently.)
+## A 100% Customizable Staff Chat Plugin for BungeeCord! 
+### Read the wiki at: 
+### Or submit feedback / bug reports at:
