@@ -10,8 +10,8 @@ assignees: ''
 **UltraStaffChat Version** (Required)
 Latest (1.0-RELEASE)
 
-**Spigot Version** (Required)
-1.13.2
+**BungeeCord Version** (Required)
+Latest
 
 **Java Version** (Not required but recommended)
 8
