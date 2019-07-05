@@ -10,8 +10,11 @@ assignees: ''
 **UltraStaffChat Version** (Required)
 Latest (1.0-RELEASE)
 
-**BungeeCord Version** (Required)
+**BungeeCord Version** (If using BungeeCord plugin)
 Latest
+
+**Spigot Version** (If using Spigot plugin)
+1.13.2
 
 **Java Version** (Not required but recommended)
 8
